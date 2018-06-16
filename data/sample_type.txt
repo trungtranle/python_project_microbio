@@ -1,0 +1,37 @@
+1	no	Phết mũi
+2	th	Phết họng
+3	sp	Đàm
+4	ea	Dịch tai
+5	ey	Phết giác mạc
+6	jt	Dịch khớp
+7	sk	Sang thương da
+8	uc	Nước tiểu (catheter)
+9	ur	Nước tiểu (giữa dòng)
+10	bl	Máu
+11	cs	Dịch não tủy (CSF)
+12	ab	Dịch màng bụng
+13	ga	Dịch dạ dày
+14	dr	Dịch dẫn lưu
+15	bi	Dịch mật
+16	as	Mủ áp-xe
+17	am	Dịch ối
+18	fn	FNA
+19	va	Dịch âm đạo
+20	bx	Mẫu mô sinh thiết
+21	hv	Valve tim
+22	st	Phân
+23	re	Phết hậu môn
+24	gn	Dịch sinh dục
+25	bm	Tủy xương
+26	ba	Dịch rửa phế quản (BAL)
+27	pf	Dịch màng phổi
+28	ta	Dịch hút phế quản
+29	ln	Nang lympho
+30	ca	Đầu catheter
+31	di	Dịch thẩm phân phúc mạc
+32	qc	Quality Control Sample
+33	pm	Đầu điện cực
+34	pd	Dịch màng tim
+35	sh	Shunt
+36	fp	Sang thương bàn chân đái tháo đường
+37	ms	Mủ

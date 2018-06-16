@@ -1,0 +1,49 @@
+Staphylococcus aureus,PEN,29,28
+Staphylococcus aureus,FOX,22,21
+Staphylococcus aureus,GEN,15,12
+Staphylococcus aureus,AZM,18,13
+Staphylococcus aureus,CIP,21,15
+Staphylococcus aureus,LZD,21,20
+CoNS,PEN,29,28
+CoNS,OXA,25,24
+CoNS,GEN,15,12
+CoNS,AZM,18,13
+CoNS,CIP,21,15
+CoNS,LZD,21,20
+Enterococcus,PEN,15,14
+Enterococcus,AMP,17,16
+Enterococcus,VAN,17,14
+Enterococcus,ERY,23,13
+Enterococcus,TET,19,14
+Enterococcus,CIP,21,15
+Enterobacteriaceae,AMP,17,13
+Enterobacteriaceae,AMC,18,13
+Enterobacteriaceae,TZP,21,17
+Enterobacteriaceae,FOX,18,14
+Enterobacteriaceae,CRO,23,19
+Enterobacteriaceae,CTX,26,22
+Enterobacteriaceae,IMP,23,19
+Enterobacteriaceae,MEM,23,19
+Enterobacteriaceae,CIP,21,15
+Enterobacteriaceae,LVX,17,13
+Enterobacteriaceae,AMK,17,14
+Enterobacteriaceae,SXT,16,10
+Pseudomonas,TZP,21,14
+Pseudomonas,CZA,21,20
+Pseudomonas,CAZ,18,14
+Pseudomonas,FEP,18,14
+Pseudomonas,IMP,19,15
+Pseudomonas,MEM,19,15
+Pseudomonas,AMK,17,14
+Pseudomonas,CIP,21,15
+Pseudomonas,LVX,17,13
+Haemophilus spp,AMP,22,18
+Haemophilus spp,AMC,20,19
+Haemophilus spp,CAZ,26,25
+Haemophilus spp,CRO,26,25
+Haemophilus spp,AZM,12,11
+Streptococcus b hemolytic,PEN,24,23
+Streptococcus b hemolytic,AMP,24,23
+Streptococcus b hemolytic,VAN,17,16
+Streptococcus b hemolytic,ERY,21,15
+Streptococcus b hemolytic,LVX,17,13
